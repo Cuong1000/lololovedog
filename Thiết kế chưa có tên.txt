@@ -1,0 +1,15 @@
+<html xmlns="http://www.w3.org/1999/xhtml" lang="vi" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#"><head>
+<title>Test title</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta name="googlebot" content="noarchive"/>
+<meta content="noindex, nofollow" name="robots"/>
+
+<meta property="og:title" itemprop="headline" name="Test title" content="Test title"/>
+<meta property="og:site_name" content="legends"/>
+<meta property="og:url" content="https://github.com/Cuong1000/lololovedog/blob/main/Thi%E1%BA%BFt%20k%E1%BA%BF%20ch%C6%B0a%20c%C3%B3%20t%C3%AAn.png"/>
+<meta property="og:image" content="https://github.com/Cuong1000/lololovedog/blob/main/Thi%E1%BA%BFt%20k%E1%BA%BF%20ch%C6%B0a%20c%C3%B3%20t%C3%AAn.png"/>
+<script type="text/javascript" language="javascript">window	.location="https://www.lovedogh.info/2023/01/exhausted-dgs-asing-fr-hel-in-garbage.html";</script>
+</head>
+<body>
+</body>
+</html>
